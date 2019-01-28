@@ -1,0 +1,53 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0%;
+    padding: 0%;
+}
+
+.navbar{
+    width: 100vw;
+    height: 15vh;
+    background-color: #ffffff;
+}
+
+ul{
+    margin: 0%;
+    list-style: none;
+    display: flex;
+    padding: 0 0 0 20px;
+}
+
+ul li{
+    display: inline;
+}
+
+ul li a{
+    text-decoration: none;
+    color: #000000;
+}
+
+.fa-shopping-bag{
+    flex-basis: 10%;
+    margin-top: 55px;
+    color: #b5c94d;
+    font-size: 30px;
+}
+
+.nav-item{
+    margin-top: 65px;
+}
+
+.nav-item-1{
+    flex-basis: 30%;
+}
+
+.nav-item-2{
+    flex-basis: 30%;
+}
+
+.nav-item-3{
+    flex-basis: 30%;
+}
