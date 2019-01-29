@@ -36,7 +36,7 @@ ul li a{
 }
 
 .fa-shopping-bag{
-    flex-basis: 16%;
+    flex-basis: 10%;
     margin-top: 55px;
     color: #b5c94d;
     font-size: 30px;
@@ -47,15 +47,15 @@ ul li a{
 }
 
 .nav-item-1{
-    flex-basis: 28%;
+    flex-basis: 30%;
 }
 
 .nav-item-2{
-    flex-basis: 28%;
+    flex-basis: 30%;
 }
 
 .nav-item-3{
-    flex-basis: 28%;
+    flex-basis: 30%;
 }
 
   /* Worked on navbar */
