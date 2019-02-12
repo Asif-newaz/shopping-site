@@ -137,7 +137,8 @@ ul li a{
     margin-left: 20px;
 }
 
-.public-post-footer{}
+.footer-headline{
+}
 
 .public-pictures{
     flex-basis: 30%;
